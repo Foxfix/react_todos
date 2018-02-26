@@ -18,6 +18,9 @@ export default class Header extends React.Component {
                             <Link className='nav-link' to='/contact'>Contact</Link>
                         </li>
                         <li className='nav-item active'>
+                            <Link className='nav-link' to='/list'>List</Link>
+                        </li>
+                        <li className='nav-item active'>
                             <Link className='nav-link' to='/contacts'>Errorpage</Link>
                         </li>
 
